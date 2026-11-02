@@ -3,11 +3,12 @@
 
 # Hi, I'm Habiba Baraka 👋
 
-### AI & Machine Learning Developer
+### Data Scientist | AI & Machine Learning Enthusiast
 
-Building intelligent solutions through code, data, and machine learning.
+Turning data into insights and ideas into intelligent solutions.
 
-[LinkedIn](https://linkedin.com/in/habiba-baraka/) • [GitHub](https://github.com/HabibaBaraka)
+[LinkedIn](https://linkedin.com/in/habiba-baraka/) •
+[GitHub](https://github.com/HabibaBaraka)
 
 </div>
 
@@ -15,93 +16,107 @@ Building intelligent solutions through code, data, and machine learning.
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student at Benha University with a strong interest in Artificial Intelligence and Machine Learning.
+I'm a Computer Science student at Benha University, passionate about Data Science and Artificial Intelligence.
 
-I enjoy exploring how intelligent systems work and turning concepts into practical applications.
+I enjoy exploring data, uncovering meaningful insights, and building machine learning models to solve real-world problems.
 
-- 🎓 Studying Computer Science at Benha University.
-- 🤖 Interested in AI, Machine Learning, and Deep Learning.
-- 🧠 Exploring Neural Networks, CNNs, and model development.
-- 💻 Building practical projects using Python and Flask.
-- 🚀 Continuously learning and improving my problem-solving skills.
+- 🎓 Computer Science Student at Benha University.
+- 📊 Interested in Data Science and Data Analytics.
+- 🤖 Exploring Machine Learning and Deep Learning.
+- 🧠 Learning Neural Networks, CNNs, and Transfer Learning.
+- 💻 Building practical applications using Python.
+- 🚀 Always learning, experimenting, and improving.
 
-## 🛠️ Tech Stack
+---
 
-**Programming Languages**
+## 🛠️ Technical Skills
 
-- Python
-- C++
-- Java
-- SQL
+### Programming
+`Python` `C++` `Java` `SQL`
 
-**AI & Machine Learning**
+### Data Science & Analytics
+`NumPy` `Pandas` `Data Cleaning` `EDA` `Data Visualization`
 
-- Machine Learning
-- Deep Learning Fundamentals
-- Neural Networks & CNNs
-- Scikit-learn
-- Model Evaluation
+### Machine Learning & AI
+`Scikit-learn` `Machine Learning` `Deep Learning` `Neural Networks` `CNNs` `Model Evaluation`
 
-**Data Analysis**
+### Data Visualization & BI
+`Microsoft Excel` `Power BI`
 
-- NumPy & Pandas
-- Data Cleaning & EDA
-- Data Visualization
-- Excel & Power BI
+### Tools & Technologies
+`Flask` `Git` `GitHub` `Jupyter Notebook` `VS Code`
 
-**Tools & Technologies**
-
-- Flask
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
+---
 
 ## 🚀 Featured Projects
 
 ### 💻 Laptop Price Predictor
 
-A Machine Learning application that predicts laptop prices based on hardware specifications and other features.
+A Machine Learning project that predicts laptop prices based on hardware specifications and other features.
 
 - Data preprocessing and feature engineering.
-- Model training and evaluation.
-- Flask web application for predictions.
+- Machine Learning model training and evaluation.
+- Hyperparameter tuning and model optimization.
+- Flask web application for real-time predictions.
 
-[View Project](https://github.com/HabibaBaraka/Laptop_Price_Predictor)
+[View Repository](https://github.com/HabibaBaraka/Laptop_Price_Predictor)
 
 ### 🫁 Lung Cancer Classification
 
-A Deep Learning project using ResNet50 to classify lung tissue images into three categories.
+A Deep Learning project using ResNet50 and Transfer Learning to classify lung tissue images into three categories.
 
-- Transfer Learning with ResNet50.
+- ResNet50 with ImageNet pretrained weights.
 - Three-class image classification.
-- Flask interface with prediction confidence.
 - Achieved 99.33% test accuracy on the project dataset.
+- Flask interface with prediction confidence and a non-diagnostic disclaimer.
 
-[View Project](#)
+[View Repository](#)
 
-## 💼 Experience & Learning
+---
 
-**Huawei AI Field Training Program**
+## 💼 Experience & Training
+
+### Huawei AI Field Training Program
+**Huawei Academy**
+
 - Python for AI and data processing.
+- Data preprocessing and visualization.
 - Machine Learning and Deep Learning fundamentals.
 - Neural Networks, CNNs, and Transfer Learning.
 
-**Digital Egypt Pioneers Initiative (DEPI)**
-- Data Analysis track.
-- Python, SQL, Excel, and Power BI.
-- Exploratory Data Analysis and reporting.
+### Digital Egypt Pioneers Initiative (DEPI)
+**Data Analysis Track**
 
-## 📫 Let's Connect
+- Data analysis using Python, SQL, and Excel.
+- Exploratory Data Analysis (EDA).
+- Data visualization and dashboard development using Power BI.
+- Working with real-world datasets.
 
-I'm always interested in learning, collaborating, and discussing ideas in AI and technology.
+---
 
-- LinkedIn: https://linkedin.com/in/habiba-baraka/
-- GitHub: https://github.com/HabibaBaraka
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HabibaBaraka&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaBaraka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning opportunities, collaboration, and connecting with people interested in Data Science and AI.
+
+- LinkedIn: [Habiba Baraka](https://linkedin.com/in/habiba-baraka/)
+- GitHub: [HabibaBaraka](https://github.com/HabibaBaraka)
 
 ---
 
 <div align="center">
 
-*Always learning. Always building.*
+**Always Learning | Always Exploring | Always Building**
 
 </div>
