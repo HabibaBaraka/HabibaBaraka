@@ -94,17 +94,6 @@ A Deep Learning project using ResNet50 and Transfer Learning to classify lung ti
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HabibaBaraka&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaBaraka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
